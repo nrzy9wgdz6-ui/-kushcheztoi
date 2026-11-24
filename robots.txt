@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kushcheztoi.fr/Sitemap.xml
+Sitemap: https://kushcheztoi.fr/sitemap.xml
